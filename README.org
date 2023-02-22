@@ -1,0 +1,5 @@
+* ARCH CONFIG
+This project is about my personal arch system.
+
+** TMUX CONFIG
+tmux.conf file has tmux config. You can built your own tmux configuration from [[https://wiki.archlinux.org/title/tmux][here]].
